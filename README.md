@@ -30,7 +30,8 @@ The dashboard consists of:
 - **Conversion Rate by Cohort** – Bar chart showing uplift in conversion
 - **KPI Summary Table** – Cohort-level metrics: users, average time, conversion %, and test duration
 
-!![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](screenshots/dashboard_preview.png)
+
 
 
 ---
